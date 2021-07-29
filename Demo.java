@@ -4,4 +4,9 @@ public class Demo
 	{
 		system.out.println("Hello WOrld ");
 	}
+	
+	m1()
+	{
+	}
+	
 }
